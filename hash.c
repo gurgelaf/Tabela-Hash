@@ -14,9 +14,9 @@ void main() {
 		
 		switch (escolha) {
 			case '1':
-					printf("\n digite um valor: ");
-					scanf("%i", &chave);
-					inserir(chave, espaco);
+				printf("\n digite um valor: ");
+				scanf("%i", &chave);
+				inserir(chave, espaco);
 			break;
 			case '2':
 				printf("\n digite um valor: ");
